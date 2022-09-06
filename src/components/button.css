@@ -1,0 +1,11 @@
+.btn {
+	color: red;
+	padding: 8px;
+	border: 0;
+}
+
+.btn-p {
+	background-color: blue;
+	color: white;
+	border: 1px solid red;
+}
